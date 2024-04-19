@@ -1,4 +1,4 @@
-name: simple_media_player
+name: media_player
 description: A new Flutter project.
 publish_to: "none"
 
@@ -10,10 +10,17 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  google_fonts: ^6.2.0
+  flutter_svg: ^2.0.10+1
+  intl: ^0.19.0
+  video_player: ^2.8.3
+  audioplayers: ^5.2.1
+  cached_network_image: ^3.3.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  mockito: ^5.4.4
 flutter:
   uses-material-design: true
