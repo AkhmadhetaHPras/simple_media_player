@@ -24,3 +24,9 @@ dev_dependencies:
   mockito: ^5.4.4
 flutter:
   uses-material-design: true
+  assets:
+    - assets/svgs/
+    - assets/imgs/
+    - assets/musics/
+    - assets/videos/
+    - assets/response/
